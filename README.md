@@ -23,11 +23,9 @@ This project is a comprehensive database application developed for managing univ
    - Access forms and dashboards through the APEX interface.
    - Manage leases, payments, and maintenance tasks.
 
-## Screenshots
-(Add screenshots of your application interface and dashboards here.)
 
 ## Contributions
-Developed by [Your Name] to enhance housing management efficiency for university facilities.
+Developed by Suyog Yadav to enhance housing management efficiency for university facilities.
 
 ## License
 This project is licensed under the MIT License. See `LICENSE` for more details.
